@@ -1,0 +1,167 @@
+body{
+    background-size: cover;
+    background-position: cover;
+    font-family: 'Arial Narrow Bold', MV Boli,;
+    background-image: url('Restaurant Food Background Images – Browse 7,437,764 Stock Photos, Vectors, and Video _ Adobe Stock - Google Chrome 15_02_2026 4_50_53 pm.png');
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #ea091c;
+    font-family: cursive;
+    font-size: 90px;
+    text-align: center;
+    margin-top: 100px;
+}
+#Button1{
+    font-size: 30px;
+    color: #b29e9e;
+    background-image: url('Menu design background Images - Free Download on Freepik - Google Chrome 16_02_2026 10_42_50 pm.png');
+    background-position: 20px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 190px;
+    border: none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#Button2{
+    font-size: 30px;
+    color: #b29e9e;
+    background-image: url('Top view of sketchbook and fresh vegetables colorful bell peppers green chili peppers tomatoes and black peppercorns on rustic wood _ Free Photo - Google Chrome 16_02_2026 10_22_46 pm.png');
+    background-position: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 190px;
+    border: none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#Romantic{
+    font-size: 30px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 190px;
+    border: none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#VIP{
+    font-size: 30px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 190px;
+    border: none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#Bar{
+    font-size: 30px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 200px;
+    border:none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.tab-btn{
+    font-size: 30px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:100px 200px;
+    border:none;
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.tab-btn:hover{
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    box-shadow: #b29e9e 0px 0px 20px;
+    color: white;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#Home_Page{
+    padding: 100px 200px;
+    font-size: 30px;
+    margin-left: 500px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    background-position: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    cursor: pointer;
+}
+
+.tab{
+    padding: 50px 100px;
+    font-size: 30px;
+    color: #b29e9e;
+    background-color: rgb(201, 19, 19);
+    background-position: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    cursor: pointer;
+}
+
+.Info{
+    padding: 50px 250px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+
